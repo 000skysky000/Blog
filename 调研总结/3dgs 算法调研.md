@@ -21,10 +21,21 @@
 
 - [调参指南](https://www.bilibili.com/read/cv32336778/)
 
+## Viewer
+
+- [PlayCanvas glTF Viewer GitHub](https://github.com/playcanvas/model-viewer)
+
+- [https://playcanvas.com/model-viewer](https://playcanvas.com/model-viewer)
+  
+-  [splat](https://antimatter15.com/splat/)
 
 # Gaussian Editor
 
-
-论文：[]
+论文：
 
 中文：[CSDN](https://blog.csdn.net/su_zy_/article/details/134762776)
+
+
+# Awesome 3D Gaussian Splatting Resources
+
+[GitHub](https://github.com/MrNeRF/awesome-3D-gaussian-splatting?tab=readme-ov-file#reviews)
